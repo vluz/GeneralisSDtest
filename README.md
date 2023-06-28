@@ -37,7 +37,11 @@ python test.py
 
 ***Takes a long time to run the first time as*** 
 <br>
-***it has to download a large amount of files***
+***it has to download a large amount of files.***
+<br>
+***Please ignore the warnings, everything is***
+<br>
+***set to defaults by design.***
 
 To exit the virtual environment do:
 ```
@@ -49,3 +53,9 @@ venv\Scripts\deactivate
 Example output:
 <br>
 ![Image1](cat01.png?raw=true "Image 1")
+
+<hr>
+
+NOTE: Untested, not fit for production.
+
+<br>
