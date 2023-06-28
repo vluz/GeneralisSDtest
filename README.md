@@ -1,17 +1,17 @@
 # Generalis SD test
 
-### A test of a SD model merge, hosted in Hugging Face and usable in python
+### A test of a SD model merge, hosted in Hugging Face and usable in Python
 
 __https://huggingface.co/vluz/Generalis_V1__
 
 This is a minimal viable implementation that meets project requirements:
-- Generalist Model, can generate anything
-- Muted colours compared to other SD models
-- Low vram use at the cost of 25% of generation time
-- Permissive license to allow anyone to use, modify, etc.
-- Published as safetensors for safety
-- encoded vae for simplicity
-- works well with DDIM sampler at low iteration count
+  - Generalist Model, can generate anything
+  - Muted colours compared to other SD models
+  - Low vram use at the cost of 25% of generation time
+  - Permissive license to allow anyone to use, modify, etc.
+  - Published as safetensors for safety
+  - encoded vae for simplicity
+  - works well with DDIM sampler at low iteration count
 
 <hr>
 
