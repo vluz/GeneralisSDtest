@@ -3,7 +3,7 @@ from diffusers import StableDiffusionPipeline    # <3
 
 
 # Model location in HF 
-model = "https://huggingface.co/vluz/Generalis_V1/blob/main/Generalis_v1.safetensors"
+model = "https://huggingface.co/vluz/Generalis_V1/blob/main/Generalis_v1-1.safetensors"
 
 # Create pipe
 pipe = StableDiffusionPipeline.from_ckpt(model, 
