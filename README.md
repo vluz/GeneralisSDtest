@@ -2,7 +2,10 @@
 
 ### A test of a SD model merge, hosted in Hugging Face and usable in Python
 
-__https://huggingface.co/vluz/Generalis_V1__
+Update: New model revision is out.      
+__https://huggingface.co/vluz/Generalis_V1.1__
+
+~~https://huggingface.co/vluz/Generalis_V1~~
 
 This is a minimal viable implementation that meets project requirements:
   - Generalist Model, can generate anything
